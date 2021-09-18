@@ -9,3 +9,7 @@ ScotiaSimple app was designed using Adobe XD. My main goal was to make a 'lite' 
 I also wanted to make the app as simple to use as possible, since my ultimate goal was to reduce the digital divide, ex. Help Older Citizens connect with the financial world. 
 
 The app is well designed and prototyped using Adobe XD. The project was checked and appriciated by the Tech Team at ScotiaBank, who felt the idea and design were wonderful.
+
+view the project here:
+https://xd.adobe.com/view/a32492a5-a3d4-4701-9167-6f916bb00376-f677/
+
