@@ -15,7 +15,5 @@ The app is well designed and prototyped using Adobe XD. The project was checked 
 view the project here:
 https://xd.adobe.com/view/a32492a5-a3d4-4701-9167-6f916bb00376-f677/
 
-# Images
-![alt text](https://github.com/thisisadityapatel/Scotiabank-Hackathon-Project-UI-UX-2021/blob/[branch]/image1.jpg?raw=true)
 
 
