@@ -19,7 +19,7 @@ https://xd.adobe.com/view/a32492a5-a3d4-4701-9167-6f916bb00376-f677/
 # Images
 <table>
   <tr>
-    <td> ![Screenshot](image2.png) </td>
+    <td> <img src="image2.png" alt="image 2"> </td>
     <td> ![Screenshot](image3.png) </td
     <td> ![Screenshot](image4.png) </td>
    </tr>
