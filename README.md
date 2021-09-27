@@ -16,13 +16,3 @@ view the project here:
 https://xd.adobe.com/view/a32492a5-a3d4-4701-9167-6f916bb00376-f677/
 
 
-# Images
- Image 1
- <img src="image2.png" alt="image 2">
- 
- Image2
- <img src="image3.png" alt="image 3"> 
- 
- Image3
- <img src="image4.png" alt="image 4">
- 
