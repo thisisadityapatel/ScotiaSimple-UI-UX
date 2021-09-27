@@ -1,9 +1,9 @@
+![Scotiabank Logo](https://www.scotiabank.com/content/dam/scotiabank/images/logos/2019/scotiabank-logo-red-desktop-200px.svg)
+
 # Scotiabank-Hackathon-Project-2021
 2021 Scotiabank Hackathon S:/HACKS. 
 The problem given for the Hackthon was "Improve accessibility to online financial services and minimize the digital divide in our society, as our technology rapidly advances".
 The event was held online, and the participants were given less than 48 hours to come up with a solution.
-
-![Scotiabank Logo](https://www.scotiabank.com/content/dam/scotiabank/images/logos/2019/scotiabank-logo-red-desktop-200px.svg)
 
 ScotiaSimple
 ------------
