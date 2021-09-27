@@ -17,11 +17,7 @@ https://xd.adobe.com/view/a32492a5-a3d4-4701-9167-6f916bb00376-f677/
 
 
 # Images
-<table>
-  <tr>
-    <td> <img src="image2.png" alt="image 2"> </td>
-    <td> <img src="image3.png" alt="image 3"> </td
-    <td> <img src="image4.png" alt="image 4"></td>
-   </tr>
-</table>  
-
+ <img src="image2.png" alt="image 2"> </td>
+ <img src="image3.png" alt="image 3"> </td
+ <img src="image4.png" alt="image 4"></td>
+ 
