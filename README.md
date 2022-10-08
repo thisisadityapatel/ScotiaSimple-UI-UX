@@ -2,7 +2,7 @@
 
 # Scotiabank-Project-2021
 2021 Scotiabank S:/HACKS. 
-The problem given for the Hackthon was "Improve accessibility to online financial services and minimize the digital divide in our society, as our technology rapidly advances".
+The problem given for the hackathon was "Improve accessibility to online financial services and minimize the digital divide in our society, as our technology rapidly advances".
 The event was held online, and the participants were given less than 48 hours to come up with a solution.
 
 ScotiaSimple 
